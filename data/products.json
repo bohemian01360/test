@@ -1,14 +1,14 @@
 [
   {
-    "Name":"Pixel 5",
-    "Price":19800
+    "name":"Pixel 5",
+    "price":19800
   },
   {
-    "Name":"Chromebook",
-    "Price":12000
+    "name":"Chromebook",
+    "price":12000
   },
   {
-    "Name":"Chromecast",
-    "Price":14000
+    "name":"Chromecast",
+    "price":14000
   }
 ]
